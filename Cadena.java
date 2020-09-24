@@ -1,7 +1,7 @@
 
 public class Cadena {
 
-	private String cadena;
+	private String cadenaRepoLocal;
 	
 	public Cadena(String c) {
 		cadena=c;
